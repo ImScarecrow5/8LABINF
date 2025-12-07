@@ -1,0 +1,4 @@
+﻿  8labaINF.cpp
+D:\vsRepos\8labaINF\8labaINF\8labaINF.cpp(75,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\vsRepos\8labaINF\8labaINF\8labaINF.cpp(117,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  8labaINF.vcxproj -> D:\vsRepos\8labaINF\x64\Debug\8labaINF.exe
